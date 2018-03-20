@@ -2,3 +2,5 @@
 /projects/vc12/*.sdf
 /projects/vc12/Win32*
 /projects/vc12/*.suo
+/projects/vc12/Win64_DLL_Release
+/projects/vc12/ipch
